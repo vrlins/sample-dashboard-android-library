@@ -6,5 +6,5 @@ dependencyResolutionManagement {
         maven { url 'https://jitpack.io' }
     }
 }
-rootProject.name = "Sample Lib"
+rootProject.name = "Sample Dashboard Lib"
 include ':dashboard'
